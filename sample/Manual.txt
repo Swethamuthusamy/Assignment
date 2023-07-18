@@ -1,0 +1,64 @@
+Test Cases for Hashtag carrier apply page :
+===========================================
+
+* Once enter the url we can able to see the display page.
+
+* Verify the browser compatibility we can check and open various browsers like, Chrome, Firefox,  Edge , Internet explorer.
+
+* Verify this application is open only for Android or web or tab.
+
+* Verify the company name and logo clearly visible or not.
+
+* Verify the font size,  font color and design these are properly developed as per requirement.
+
+* Verify the menu button is properly working or not.
+
+* Verify Inside of all the hyperlink are working or not.
+
+* Verify if you click one function,  it will redirect to another page.
+
+* Verify the drop down button is working fine or not.
+
+* Verify all the input fields are added with labels.
+
+* Verify how many letters are given to the name field.
+
+* Verify this field is allow only text.
+
+* Verify if we given the numbers or special characters or space , it will allow or not.
+
+* Verify the email field is allow numbers,  text.
+
+* Verify the email is starting with small case.
+
+* Verify the email is starting with upper case, the application will accept or not.
+
+* Verify how many letters are given to the email field.
+
+* Verify the phone number is only allowed for numbers.
+
+* Verify we must given 10 numbers in the numbers field.
+
+* Incase we given max or min 10 numbers it will through the error msg or not.
+
+* Verify which types of will be added.
+
+* Verify we can attach only one file or multiple files.
+
+* Verify we can add png or text file?
+
+* Verify the description box is allowed only text.
+
+* We can check the description box is allowed special characters,  numbers and spaces.
+
+* Verify how many words are allowed this field.
+
+* Verify the apply now button is working properly.
+
+* Once you given valid credentials in all fields and click the apply button then you can able to see success pop-up message or redirect the another page .
+
+* Once you given invalid credentials in all fields and click the apply button then the application will allow that credentials or show the error pop-up.
+
+* When you enter the credentials auto suggested will be available ?
+
+* Incase some of the field is blank but we click the apply now button, the error message is display or not.
